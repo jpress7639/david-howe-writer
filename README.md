@@ -6,7 +6,7 @@ To make a user-friendly React-App site to present David Howe as a writer both in
 
 ### Mock Flow Sketch
 
-
+https://wireframepro.mockflow.com/view/Mdefaf76b8e74ae91fd17d0f027f0954a1600965861992#/page/6b3270029b054a9d8bb41d4236664c95
 
 
 #### Component Breakdown
@@ -31,10 +31,10 @@ To make a user-friendly React-App site to present David Howe as a writer both in
 | CSS Styling |    H     |     3 hrs      |         |     |    |
 | Advanced CSS & Animation |    M     |   3 hrs       |    |      |        |    
 | Dynamic (Javascript)     |    M     |    3 hrs      |     |      |        |
-| Blog Mechanics (Backend)  |   H     |    4 hrs      |      |      |         |
+| Blog Mechanics (Backend)  |   H     |    5 hrs      |      |      |         |
 | Authorization            |    H     |    4 hrs      |      |      |           |
 | Contact Form             |    M     |    2 hrs      |     |       |             |
-| TOTAL               |          |     21 hrs      |     |  |          |
+| TOTAL               |          |     22 hrs      |     |  |          |
 
 > _Why is this necessary? Time frames are key to the development cycle. You have limited time to code your app, and your estimates can then be used to evaluate possibilities of your MVP and post-MVP based on time needed. It's best you assume an additional hour for each component, as well as a few hours added to the total time, to play it safe._
 
