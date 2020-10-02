@@ -16,7 +16,7 @@ https://wireframepro.mockflow.com/view/Mdefaf76b8e74ae91fd17d0f027f0954a16009658
 | :----------: | :--------: | :---: | :---: | :--------------------------------------------------------------- |
 |    Header    | class |   n   |   n   | _The header will contain the navigation and logo._               |
 |  Navigation  | class |   n   |   n   | _The navigation will provide a link to each of the sections._       |
-|  About    |   class    |   n   |   n   | _This section will render Anne's bio._      |
+|  About    |   class    |   n   |   n   | _This section will render David's bio._      |
 | Blog | functional |   y   |   y   | _This will showcase David's writings where he will be able to display them. David will also be able to delete blogs with his own auth account._                 |
 | New Blog       | functional  |  n   |   n   | _This component will only be used by David to make a new post._ |
 | Edit Blog | class  |   y   |  n   | _This component will only be used by David to edit or delete a post.._ |
