@@ -19,7 +19,7 @@ https://wireframepro.mockflow.com/view/Mdefaf76b8e74ae91fd17d0f027f0954a16009658
 |  About    |   class    |   n   |   n   | _This section will render Anne's bio._      |
 | Blog | functional |   y   |   y   | _This will showcase David's writings where he will be able to display them. David will also be able to delete blogs with his own auth account._                 |
 | New Blog       | functional  |  n   |   n   | _This component will only be used by David to make a new post._ |
-| Edit Blog | class  |   y   |  n   | _This section will include the testimonials of all of Anne's past and current students._ |
+| Edit Blog | class  |   y   |  n   | _This component will only be used by David to edit or delete a post.._ |
 | Contact     |  functional |  y |  n |  _This section will provide a way for the user to have further inquiry into David's writing or for possible hire._ |
 |    Footer    | functional |   n   |   n   | _The footer will showcase David's socials and other links to his work._ |
 
